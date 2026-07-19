@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -50,8 +52,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
