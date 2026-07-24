@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0229-majority-element-ii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0011-container-with-most-water) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
