@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0022-generate-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,9 +83,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0119-pascals-triangle-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
