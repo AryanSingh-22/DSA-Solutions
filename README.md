@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0069-sqrtx) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
