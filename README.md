@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0029-divide-two-integers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AryanSingh-22/DSA-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
